@@ -464,7 +464,6 @@ portfolio-trade-compliance-checker/
 | `trades_test.csv` | Proposed trade input file |
 | `portfolio_reference.json` | User-supplied portfolio reference data |
 | `compliance_results.csv` | Optional CSV output |
-| `compliance_results.xlsx` | Optional Excel output |
 | `README.md` | Project documentation |
 | `.venv/` | Local Python virtual environment |
 
