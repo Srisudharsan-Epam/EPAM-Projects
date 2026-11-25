@@ -1,1 +1,101 @@
-
+{
+  "POR001": {
+    "cash_balance": 10000.0,
+    "restricted_securities": [
+      "XYZCORP"
+    ],
+    "max_position_pct": 0.4,
+    "current_holdings": [
+      {
+        "security_id": "AAPL",
+        "quantity": 50,
+        "market_price": 150.0
+      },
+      {
+        "security_id": "TCS",
+        "quantity": 50,
+        "market_price": 100.0
+      },
+      {
+        "security_id": "INFY",
+        "quantity": 20,
+        "market_price": 80.0
+      }
+    ]
+  },
+  "POR002": {
+    "cash_balance": 10000.0,
+    "restricted_securities": [],
+    "max_position_pct": 0.5,
+    "current_holdings": [
+      {
+        "security_id": "MSFT",
+        "quantity": 20,
+        "market_price": 300.0
+      },
+      {
+        "security_id": "AMZN",
+        "quantity": 10,
+        "market_price": 150.0
+      }
+    ]
+  },
+  "POR003": {
+    "cash_balance": 15000.0,
+    "restricted_securities": [
+      "BADCO"
+    ],
+    "max_position_pct": 0.5,
+    "current_holdings": [
+      {
+        "security_id": "RELIANCE",
+        "quantity": 30,
+        "market_price": 250.0
+      },
+      {
+        "security_id": "INFY",
+        "quantity": 20,
+        "market_price": 80.0
+      },
+      {
+        "security_id": "TCS",
+        "quantity": 10,
+        "market_price": 100.0
+      }
+    ]
+  },
+  "POR004": {
+    "cash_balance": 50000.0,
+    "restricted_securities": [],
+    "max_position_pct": 0.4,
+    "current_holdings": [
+      {
+        "security_id": "AAPL",
+        "quantity": 100,
+        "market_price": 150.0
+      },
+      {
+        "security_id": "GOOGL",
+        "quantity": 20,
+        "market_price": 2000.0
+      }
+    ]
+  },
+  "POR005": {
+    "cash_balance": 25000.0,
+    "restricted_securities": [],
+    "max_position_pct": 0.6,
+    "current_holdings": [
+      {
+        "security_id": "BOND01",
+        "quantity": 100,
+        "market_price": 100.0
+      },
+      {
+        "security_id": "ETF01",
+        "quantity": 50,
+        "market_price": 200.0
+      }
+    ]
+  }
+}
