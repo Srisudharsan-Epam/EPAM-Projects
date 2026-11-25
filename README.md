@@ -273,18 +273,8 @@ The proposed trades file must be a CSV file with the following columns:
 
 ### Trades CSV Example
 
-```csv
-portfolio_id,security_id,action,quantity,price,security_type
-POR001,AAPL,Buy,20,150,Equity
-POR001,TCS,Sell,50,100,Equity
-POR002,GOOGL,Buy,5,2000,Equity
-POR003,BADCO,Buy,10,100,Equity
-POR004,MSFT,Buy,25,300,Equity
-```
+<img width="529" height="484" alt="image" src="https://github.com/user-attachments/assets/fe806e1d-5b91-45a7-8da6-d5d8c743735d" />
 
-The `security_type` field is accepted as part of the trade input. The current compliance rules do not apply different validation logic based on security type.
-
----
 
 ## Input File 2: Portfolio Reference JSON
 
