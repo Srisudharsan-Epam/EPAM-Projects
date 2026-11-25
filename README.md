@@ -451,9 +451,7 @@ The portfolio reference data is supplied by the user and can be replaced without
 portfolio-trade-compliance-checker/
 ├── compliance_checker.py
 ├── trades_test.csv
-├── portfolio_reference.json
 ├── compliance_results.csv
-├── compliance_results.xlsx
 ├── README.md
 └── .venv/
 ```
