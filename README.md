@@ -1,8 +1,5 @@
 # EPAM-Projects
 
-# Test Input List
-<img width="529" height="484" alt="image" src="https://github.com/user-attachments/assets/fe806e1d-5b91-45a7-8da6-d5d8c743735d" />
-
 # Portfolio Trade Order Compliance & Execution Checker
 
 A Python-based compliance and execution-readiness checker for proposed portfolio trades.
